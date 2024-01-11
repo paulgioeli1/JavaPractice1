@@ -12,10 +12,10 @@ public class JavaPractice {
     
     public static void main(String[] args) {
         
-        int var1 = 4;
-        int var2 = 7;
+        int var1 = 60;
+        int var2 = 12;
         
-        int var3 = var1 * var2;
+        int var3 = var1 / var2;
         
         int var4 = Addem(var1, var2);
         
